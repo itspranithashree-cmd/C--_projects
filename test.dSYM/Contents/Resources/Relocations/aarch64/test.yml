@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/pranitthashreer/workspace/C++_projects/test'
+relocations:     []
+...
